@@ -12,6 +12,9 @@
 				"GitHub.copilot"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/git:1": {}
 	}
 
 	// Use 'mounts' to make the cargo cache persistent in a Docker Volume.
